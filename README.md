@@ -1,16 +1,19 @@
-## Hi there 👋
+<h2 align="center">Hovirix 👋</h2>
 
-<!--
-**Hovirix/Hovirix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Currently migrating my <a href="https://github.com/hovirix/homelab">homelab</a> to Kubernetes
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://hovirix.dev">
+    <img src="https://img.shields.io/badge/Website-hovirix.dev-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white" />
+  </a>
+  <a href="https://matrix.to/#/@hovirix:matrix.org">
+    <img src="https://img.shields.io/badge/Matrix-@hovirix:matrix.org-2E2E2E?style=flat-square&logo=matrix&logoColor=white" />
+  </a>
+  <a href="https://hovirix.dev/hovirix.asc">
+    <img src="https://img.shields.io/badge/PGP-hovirix.asc-0A66C2?style=flat-square&logo=gnuprivacyguard&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
